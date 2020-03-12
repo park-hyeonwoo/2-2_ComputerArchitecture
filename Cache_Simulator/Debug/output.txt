@@ -1,0 +1,11 @@
+0x00000000: miss
+0x00000004: miss
+0x00000004: hit
+0x0000000C: miss
+0x00000000: hit
+0x000B0000: miss
+0x001AF1C0: miss
+0x00000010: miss
+0x001AF1C0: hit
+# of cache hits: 3
+# of cache misses: 6
